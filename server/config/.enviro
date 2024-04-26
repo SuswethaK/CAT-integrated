@@ -1,0 +1,4 @@
+#ATLAS_URI=mongodb+srv://skhairunnesa:mongodbsamantha@clustercaterpillar.oonlpmo.mongodb.net/cat?retryWrites=true&w=majority&appName=ClusterCaterpillar
+ATLAS_URI=mongodb+srv://hpolasani:TBb5lWGzmEjNGzCY@3dcp.v7atcc3.mongodb.net/cat?retryWrites=true&w=majority&appName=3DCP
+GOOGLE_SECRET_KEY=
+GCID=868741849492-ias2jaeoigl0pls8ji5qlqrmcn2h41c5.apps.googleusercontent.com
